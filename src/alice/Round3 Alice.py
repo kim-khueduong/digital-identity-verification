@@ -1,7 +1,7 @@
 import hmac
-impport haslib
+import hashlib
 
-print ("ALICE: LEGITIMATE SENDER")
+print ("ALICE: LEGITIMATE SENDER (Round 3)")
 message = input("Enter a message to send to Bob:")
 
 #Alice and Bob uses the same key
